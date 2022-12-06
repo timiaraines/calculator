@@ -32,8 +32,6 @@ function App() {
             <button>0</button>
             <button>.</button>
             <button>=</button>
-
-            <button></button>
           </div>
 
 
